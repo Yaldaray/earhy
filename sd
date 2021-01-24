@@ -1,0 +1,68 @@
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="http://webtvonlive.com/wp-content/uploads/altyn_asyr_tv-webtvonlive-com.jpg" group-title="Undefined",Altyn Asyr TV
+https://alpha.tv.online.tm/legacyhls/ch001_720/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="http://webtvonlive.com/wp-content/uploads/Asgabat-webtvonlive-com.jpg" group-title="Undefined",Asgabat TV
+https://alpha.tv.online.tm/legacyhls/ch006_720/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="" group-title="Sport",Türkmenistan Sport
+https://alpha.tv.online.tm/hls/ch004_720/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="http://webtvonlive.com/wp-content/uploads/Miras-webtvonlive-com.jpg" group-title="Undefined",Miras
+https://alpha.tv.online.tm/legacyhls/ch003_720/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="https://i.imgur.com/zKWfwAw.png" group-title="Undefined",TM | Türkmenistan TV,Türkmenistan TV
+https://alpha.tv.online.tm/legacyhls/ch007_720/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="" group-title="Sport",Turkmen Спорт,Türkmenistan Sport
+http://217.174.225.146/legacyhls/ch004_400/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="http://webtvonlive.com/wp-content/uploads/T%C3%BCrkmen-Owazy-webtvonlive-com.jpg" group-title="Undefined",Türkmen Owazy
+https://alpha.tv.online.tm/legacyhls/ch005_720/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="" group-title="Sport",Türkmenistan Sport
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="http://tv-online.in/wp-content/uploads/2015/09/Turkmen-sport-logo.jpg" group-title="Sport",Türkmenistan Sport
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="" group-title="Sport",Türkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="http://tdh.gov.tm/static/logo/7.png" group-title="Undefined",Türkmenistan TV
+https://alpha.tv.online.tm/hls/ch007_400/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="http://tdh.gov.tm/static/logo/7.png" group-title="Undefined",Türkmenistan TV
+http://alpha.tv.online.tm/hls/ch007_400/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="http://webtvonlive.com/wp-content/uploads/Yaslyk-webtvonlive-com.jpg" group-title="Undefined",Yaslyk TV
+https://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",A Spor HD
+http://tvog.eu:8080/ibrahim/08.03.2020/697?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",A SPOR
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:B5/hku8cTCx3n/61712.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",A2 TV
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:B5/hku8cTCx3n/61736.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",ATV AVRUPA
+http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/27056?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",ATV HD
+http://rv.imax.re:80/5124037472/1572081885/80731?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",SHOW TV HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/79398.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TEVE 2
+http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/27078?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",KANAL D HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/79391.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TEVE 2 HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/79405.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",STAR TV HD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/79397?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",Eleven Pro League 1 HD+
+http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/481?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",Eleven Sports 1 HD+
+http://ac.traveliptv.nl:80/iptvtree12/125iptvtree12/487?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",CITY TV
+https://cdn1.mobiletv.bg/T10/citytv/citytv_794613_850k.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport",Eurosport 1
+https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",FOX
+https://cdn1.mobiletv.bg/T13/fox/fox_794613_850k.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",FEN TV
+https://cdn1.mobiletv.bg/T7/fentv/fentv_794613_850k.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",KINO NOVA
+https://cdn1.mobiletv.bg/T3/kinonova/kinonova_794613_850k.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",DIEMA
+https://cdn1.mobiletv.bg/T13/diema/diema_794613_850k.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Ring BG
+https://cdn1.mobiletv.bg/T3/ringbghd/ringbghd_794613_850k.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Планета
+https://cdn1.mobiletv.bg/T5/planeta/planeta_794613_850k.m3u8?checkedby:hlscat.com
