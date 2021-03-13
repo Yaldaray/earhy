@@ -66,5 +66,19 @@ https://cdn1.mobiletv.bg/T13/diema/diema_794613_850k.m3u8?checkedby:hlscat.com
 https://cdn1.mobiletv.bg/T3/ringbghd/ringbghd_794613_850k.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Планета
 https://cdn1.mobiletv.bg/T5/planeta/planeta_794613_850k.m3u8?checkedby:hlscat.com
-EXTINF:0 tvg-streamable="Sequence 1",
-https://streamable.com/19z7ag
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:3.970633,
+result1.ts
+#EXTINF:1.368033,
+result2.ts
+#EXTINF:2.769444,
+result3.ts
+#EXTINF:5.739067,
+result4.ts
+#EXTINF:0.533867,
+result5.ts
+#EXT-X-ENDLIST
